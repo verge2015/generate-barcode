@@ -35,7 +35,7 @@ generate-barcode is NodeJS for creating a barcode.
 
 ## Source Code
 ```javascript
- const fs = require("fs");
+const fs = require("fs");
 const readline = require('readline');
 const JsBarcode = require("jsbarcode");
 const { Canvas } = require("canvas");
