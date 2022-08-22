@@ -70,8 +70,9 @@ rl.question('Enter Product ID: ', function (name) {
 ```
 
 ## Output
-This Sameple QR Code is a link to this repository.
-![QR-Code](https://user-images.githubusercontent.com/16742524/185793281-cb300ece-9a43-4d0e-8e36-0e6a7bcf8c0a.png)
+This Sameple Barcode is a link to this repository.
+
+![barcode](https://user-images.githubusercontent.com/16742524/185918451-aeacc3cc-3f0d-4896-a0c1-628f39f9ea01.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
