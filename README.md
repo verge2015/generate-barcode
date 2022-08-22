@@ -69,6 +69,9 @@ rl.question('Enter Product ID: ', function (name) {
 });
 ```
 
+## Output
+This Sameple Barcode is a link to this repository.
+![barcode](https://user-images.githubusercontent.com/16742524/185918451-aeacc3cc-3f0d-4896-a0c1-628f39f9ea01.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
